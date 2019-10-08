@@ -131,7 +131,7 @@ PRODUCT_PACKAGES += \
     libqcomvisualizer \
     libqcomvoiceprocessing \
     libvolumelistener \
-    tinymix
+    tinymix.vendor
 
 # JamesDSP
 PRODUCT_PACKAGES += \
